@@ -1,12 +1,7 @@
 # 🌡️ Heat Stress Monitoring System
 
 > **ATmega8-based real-time environmental safety monitor for outdoor workers**  
-> ECCE4227 Embedded Systems — Sultan Qaboos University, Spring 2026
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-ATmega8-blue.svg)](https://www.microchip.com/en-us/product/atmega8)
-[![Language](https://img.shields.io/badge/Language-C%20(AVR--GCC)-orange.svg)](src/main.c)
-[![Demo](https://img.shields.io/badge/Demo-YouTube-red.svg)](https://youtu.be/dbsSpo_JKxE)
 
 ---
 
@@ -20,8 +15,8 @@
 - [Threshold Configuration](#-threshold-configuration)
 - [UART Output Format](#-uart-output-format)
 - [Demo](#-demo)
-- [Team](#-team)
-- [License](#-license)
+
+
 
 ---
 
@@ -198,18 +193,11 @@ Status: SAFE
 ---
 
 ## 🎬 Demo
-
-[![YouTube Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/dbsSpo_JKxE)
+https://youtu.be/dbsSpo_JKxE
 
 ---
 
-## 👥 Team
 
-| Name | Student ID |
-|---|---|
-| Abdulmalik [Last Name] | [ID] |
-| [Group Member 2] | [ID] |
-| [Group Member 3] | [ID] |
 
 > Sultan Qaboos University — Department of Electrical and Computer Engineering  
 > ECCE4227: Embedded Systems, Spring 2026
