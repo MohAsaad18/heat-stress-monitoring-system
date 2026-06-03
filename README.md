@@ -195,12 +195,7 @@ Status: SAFE
 ## 🎬 Demo
 https://youtu.be/dbsSpo_JKxE
 
----
 
-
-
-> Sultan Qaboos University — Department of Electrical and Computer Engineering  
-> ECCE4227: Embedded Systems, Spring 2026
 
 ---
 
