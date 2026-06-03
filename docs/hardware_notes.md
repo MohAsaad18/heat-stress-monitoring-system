@@ -40,10 +40,3 @@
 # Set fuses for 16 MHz external crystal, BOD at 4.0 V
 avrdude -c usbasp -p m8 -U lfuse:w:0xdf:m -U hfuse:w:0xC9:m
 ```
-
-## Programming Interface
-The SQU ATmega8 development board (Rev 2.2) exposes ISP via the 6-pin
-header (MOSI, MISO, SCK, RST, VCC, GND). Compatible programmers:
-- USBasp
-- Arduino as ISP (sketch → Examples → ArduinoISP)
-- AVRISP mkII
